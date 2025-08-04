@@ -70,7 +70,7 @@ function getSprints(allSprints) {
       if (d.getDay() === 1) {
         return d;
       }
-      output = new Date(2025,03,01);
+      output = new Date(d.getTime());
       output.setDate(output.getDate() + ((1 + 7 - output.getDay()) % 7 || 7));
 
       return output;
@@ -320,5 +320,6 @@ function clearBody() {
 
 // Start the application
 initialize();
+
 
 
