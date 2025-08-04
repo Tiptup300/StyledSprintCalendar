@@ -300,7 +300,7 @@ function runPage() {
   }
 
   function getToday() {
-    let output = new Date();
+    let output = new Date(2025, 03, 01);
     output.setHours(0, 0, 0, 0);
 
     return output;
@@ -320,6 +320,7 @@ function clearBody() {
 
 // Start the application
 initialize();
+
 
 
 
