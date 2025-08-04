@@ -1,73 +1,59 @@
 {
   "values": [
     {
-      "name": "2025-01A",
+      "name": "01A",
       "number": 1,
       "startDate": "2025-02-03T00:00:00Z",
-      "endDate": "2025-02-09T23:59:59Z",
+      "endDate": "2025-02-16T23:59:59Z",
       "state": "completed"
     },
     {
-      "name": "2025-02A",
+      "name": "01B",
       "number": 2,
-      "startDate": "2025-02-12T00:00:00Z",
-      "endDate": "2025-02-18T23:59:59Z",
+      "startDate": "2025-02-17T00:00:00Z",
+      "endDate": "2025-03-02T23:59:59Z",
       "state": "completed"
     },
     {
-      "name": "2025-03A",
+      "name": "01C",
       "number": 3,
-      "startDate": "2025-02-21T00:00:00Z",
-      "endDate": "2025-02-27T23:59:59Z",
+      "startDate": "2025-03-03T00:00:00Z",
+      "endDate": "2025-03-16T23:59:59Z",
       "state": "completed"
     },
     {
-      "name": "2025-04A",
+      "name": "02A",
       "number": 4,
-      "startDate": "2025-02-29T00:00:00Z",
-      "endDate": "2025-03-12T23:59:59Z",
+      "startDate": "2025-03-17T00:00:00Z",
+      "endDate": "2025-03-30T23:59:59Z",
+      "state": "completed"
+    },
+    {
+      "name": "02B",
+      "number": 5,
+      "startDate": "2025-03-31T00:00:00Z",
+      "endDate": "2025-04-13T23:59:59Z",
       "state": "active"
     },
     {
-      "name": "2025-05A",
-      "number": 5,
-      "startDate": "2025-03-13T00:00:00Z",
-      "endDate": "2025-03-18T23:59:59Z",
-      "state": "planned"
-    },
-    {
-      "name": "2025-06A",
+      "name": "02C",
       "number": 6,
-      "startDate": "2025-03-21T00:00:00Z",
-      "endDate": "2025-03-27T23:59:59Z",
+      "startDate": "2025-04-14T00:00:00Z",
+      "endDate": "2025-04-27T23:59:59Z",
       "state": "planned"
     },
     {
-      "name": "2025-07A",
+      "name": "03A",
       "number": 7,
-      "startDate": "2025-03-30T00:00:00Z",
-      "endDate": "2025-04-05T23:59:59Z",
+      "startDate": "2025-04-28T00:00:00Z",
+      "endDate": "2025-05-11T23:59:59Z",
       "state": "planned"
     },
     {
-      "name": "2025-08A",
+      "name": "03B",
       "number": 8,
-      "startDate": "2025-04-07T00:00:00Z",
-      "endDate": "2025-04-13T23:59:59Z",
-      "state": "planned"
-    },
-    {
-      "name": "2025-09A",
-      "number": 9,
-      "startDate": "2025-04-16T00:00:00Z",
-      "endDate": "2025-04-22T23:59:59Z",
-      "state": "planned"
-    },
-    {
-      "name": "2025-10A",
-      "number": 10,
-      "startDate": "2025-04-25T00:00:00Z",
-      "endDate": "2025-05-01T23:59:59Z",
+      "startDate": "2025-05-12T00:00:00Z",
+      "endDate": "2025-05-25T23:59:59Z",
       "state": "planned"
     }
   ]
