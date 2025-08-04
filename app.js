@@ -35,7 +35,7 @@ function getSprints(allSprints) {
   }
 
   function getActiveSprint(allSprints) {
-    let now = new Date();
+    let now = new Date(2025, 03, 01);
     return allSprints.filter(
       (sprint) => now > sprint.startDate && now < sprint.endDate
     )[0];
@@ -320,3 +320,4 @@ function clearBody() {
 
 // Start the application
 initialize();
+
